@@ -1,0 +1,516 @@
+
+!doctype html
+html lang=en class=chrome chrome124
+head
+meta charset=utf-8 
+meta http-equiv=Accept-CH content=DPR,ViewPort-Width,Width 
+
+link href=httpswww.googletagmanager.com rel=preconnect 
+link href=httpswww.google-analytics.com rel=preconnect 
+link href=httpspx.ads.linkedin.com rel=preconnect 
+link href=httpsfonts.googleapis.com rel=dns-prefetch 
+link href=httpsfonts.gstatic.com rel=dns-prefetch 
+link href=httpsfonts.googleapis.com rel=preconnect 
+link href=httpsfonts.gstatic.com rel=preconnect 
+link href=utilfontawesome5webfontsfa-brands-400.woff2 rel=preload type=fontwoff2 as=font crossorigin= 
+link href=utilfontawesome5webfontsfa-solid-900.woff2 rel=preload type=fontwoff2 as=font crossorigin= 
+link href=fonts.googleapis.comcssfamily=PT+Sans400,700&amp;display=swap rel=preload as=style 
+
+link rel=stylesheet type=textcss href=customcssdefault.lessv=30 
+link rel=stylesheet type=textcss href=utilfontawesome5fontawesome_solid.min.css 
+link rel=stylesheet type=textcss href=fonts.googleapis.comcssfamily=PT+Sans400,700&amp;display=swap media=print onload=this.media='all' 
+
+
+link rel=alternate type=texthtml hreflang=fr href=httpswww.ibb.lucontact 
+link rel=alternate type=texthtml hreflang=de href=httpswww.ibb.lukontakt 
+link rel=alternate type=texthtml hreflang=en href=httpswww.ibb.lucontact-en 
+link rel=canonical href=httpswww.ibb.lucontact-en 
+
+link rel=shortcut icon type=imagex-icon href=favicon.ico 
+link rel=icon type=imagepng href=icon.png 
+link rel=apple-touch-icon type=imagepng href=apple-touch-icon.png 
+
+meta name=robots content=index,follow 
+meta name=author content=IBB 
+meta name=description content=Contact for IBB Baugesellschaft (Fischbach, Luxembourg). IBB construction company in Luxembourg, Belgium (Recht) 
+
+meta name=msvalidate.01 content=2B1ACDF5D6A7AC0D03B877FD0B6C3940 
+
+meta name=facebook-domain-verification content=86cbsir6nszxmrskkzjo3p4g8tf1a1 
+
+meta property=ogtitle content=Contact - Contact - IBB Baugesellschaft. Luxembourg, Belgium 
+meta property=ogdescription content=Contact for IBB Baugesellschaft (Fischbach, Luxembourg). IBB construction company in Luxembourg, Belgium (Recht) 
+meta property=ogtype content=website 
+meta property=ogurl content=httpswww.ibb.lucontact-enutm_source=www.ibb.lu&amp;utm_medium=social&amp;utm_campaign=OpenGraph&amp;utm_content=og%3Aurl 
+meta property=ogimage content=httpswww.ibb.lucustomimageslogo.png 
+meta property=ogimagesecure_url content=httpswww.ibb.lucustomimageslogo.png 
+meta property=ogimagewidth content=300 
+meta property=ogimageheight content=300 
+meta property=ogsite_name content=IBB 
+meta name=twittercard content=summary_large_image 
+meta name=twitterurl content=httpswww.ibb.lucontact-enutm_source=www.ibb.lu&amp;utm_medium=social&amp;utm_campaign=OpenGraph&amp;utm_content=og%3Aurl 
+meta name=twittersite content=httpswww.ibb.lu 
+meta name=twittertitle content=Contact - Contact - IBB Baugesellschaft. Luxembourg, Belgium 
+meta name=twitterdescription content=Contact for IBB Baugesellschaft (Fischbach, Luxembourg). IBB construction company in Luxembourg, Belgium (Recht) 
+meta property=twitterimage content=httpswww.ibb.lucustomimageslogo.png 
+
+script type=applicationld+json{priceRange€€,hasDriveThroughServicefalse,address[{addressCountryLuxembourg,addressLocalityFischbach,postalCode9749,streetAddress6, Giäellewee,@contexthttpschema.org,@typePostalAddress}],telephone+352 979 057 1,legalNameIBB Baugesellschaft mbH,contactPoint{contactTypesales,telephone+352 979 057 1,@contexthttpschema.org,@typeContactPoint},emailinfo@ibb.lu,vatIDLU16494629,image{embedUrlhttpswww.ibb.lucustomimageslogo.png,thumbnailUrlhttpswww.ibb.lucustomimageslogo.png,urlhttpswww.ibb.lucustomimageslogo.png,@contexthttpschema.org,@typeImageObject},nameIBB,sameAs[httpswww.ibb.lu,httpswww.facebook.comIBB-Baugesellschaft-186327565232481,httpswww.youtube.comchannelUCwwJyMyuJ_igyiGrDal707g],urlhttpswww.ibb.lu,@contexthttpschema.org,@typeHomeAndConstructionBusiness}script
+
+
+
+!-- Google Tag Start --
+script async src=httpswww.googletagmanager.comgtagjsid=G-N4EQFHQMH8script
+script
+window.dataLayer = window.dataLayer  [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('consent','default',{'analytics_storage''granted','ad_storage''granted','ad_user_data''granted','ad_personalization''granted'});
+gtag('config', 'G-N4EQFHQMH8', {'page_path'location.pathname,'url_passthrough'true,'send_page_view'true,'language''en','webcore_page''con','webcore_section''con','user_id''5a1eb37a-2aae-4c07-a705-8924ce821120','content_group''con'});
+script
+!-- Google Tag End --
+
+
+
+!-- LinkedIn Insights Code --
+
+script type=textjavascript
+_linkedin_partner_id = 5049210;
+window._linkedin_data_partner_ids = window._linkedin_data_partner_ids  [];
+window._linkedin_data_partner_ids.push(_linkedin_partner_id);
+script
+script type=textjavascript
+(function(l) {
+if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
+window.lintrk.q=[]}
+var s = document.getElementsByTagName('script')[0];
+var b = document.createElement('script');
+b.type = 'textjavascript';b.async = true;
+b.src = 'httpssnap.licdn.comli.lms-analyticsinsight.min.js';
+s.parentNode.insertBefore(b, s);})(window.lintrk);
+script
+script type=textjavascript
+script
+noscriptimg height=1 width=1 style=displaynone; alt= src=httpspx.ads.linkedin.comcollectpid=5049210&fmt=gif noscript
+!-- End LinkedIn Insights Code --
+
+
+    meta name=viewport content=width=device-width, initial-scale=1, shrink-to-fit=no
+title
+	Contact - Contact - IBB Baugesellschaft. Luxembourg, Belgium
+titlehead
+body id=body class=custommodule mailformmodule wc-page page_con section_con lang_en mode_normal status_success page page_4198
+!--WCFormStart--
+form method=post action=. id=ctl02script type=textjavascript
+![CDATA[
+var theForm = document.forms['ctl02'];
+if (!theForm) {
+    theForm = document.ctl02;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit  (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+]]
+script
+
+
+script src=WebResource.axdd=pynGkmcFUV13He1Qd6_TZNvOOHoqMq82Awds8pr__GQcOejwl_QpXGB7w85W5XzXxuDbE60BvzcxEvx6zFqIwQ2&amp;t=638465094520000000 type=textjavascriptscript
+
+
+script src=ScriptResource.axdd=x6wALODbMJK5e0eRC_p1LTvzpr8NDcF-N_TScfrbML1knklkMzumEq37nNL6fN4mfbgRSR5a2SUZXMSL1yXIv8gZywtq2AUHxK-vWjDk1XjqYA5NfptYScNmFsd_fXeN0&amp;t=254cc609 type=textjavascriptscript
+script src=ScriptResource.axdd=P5lTttoqSeZXoYRLQMIScEJNaiDo9pI9ZC7ejDPq8LvxhoLp36H-fdGdJPXrBZe3Hvv637nYyLCcT9Px8EU3ZJVLjoPwZQRBzkvLNOKI3CWuvMQO3jFYwWgNGjvVcD8d0&amp;t=254cc609 type=textjavascriptscript
+script src=httpswww.ibb.luCombineScriptsHandler.ashx_TSM_HiddenField_=ScriptManager_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.7.429%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3a88c49a6a-0d1d-47b4-940b-08a788536015%3af9cec9bc%3ab81afd1e type=textjavascriptscriptscript type=textjavascript
+![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager', 'ctl02', [], [], [], 90, '');
+]]
+script
+
+
+
+
+
+
+
+
+
+header id=header
+    div class=container-fluid
+		div id=logoa href=img src=customimagesheader-logo.png width=172 height=85 alt=IBB adiv
+		div id=navigation-togglespanspandiv
+		div id=navigation
+            div id=topbar
+                div id=toplanguages
+                    span class=currentenspan
+                    div id=C_T_lang class=languagelinks role=navigation aria-label=Language Navigation
+	a id=C_T_lang_lnkLangfr title=Français class=languagelink fr hreflang=fr href=contactFRa a id=C_T_lang_lnkLangde title=Deutsch class=languagelink de hreflang=de href=kontaktDEa a id=C_T_lang_lnkLangen title=English class=languagelink en selected hreflang=en href=contact-enENa
+div
+                div
+                div class=links
+                    a title=IBB - Construction company - Real estate projects in Luxembourg class=pagelink href=latest-newsNewsa
+                    a title=Job offers at IBB - Construction company - Real estate projects in Luxembourg class=pagelink href=careerJobsa
+                    a title=Construction company IBB Luxembourg class=pagelink href=projectsReferencesa
+                    a title=Construction company IBB Luxembourg class=pagelink href=companyCompanya
+                    a title=Contact - IBB Baugesellschaft. Luxembourg, Belgium class=pagelink selected href=contact-enContacta
+                div
+            div
+			nav id=nav
+                ul class=navigation
+                    lia title=Construction company IBB Luxembourg class=pagelink href=constructionResidentialali
+                    lia title=Construction company IBB Luxembourg class=pagelink href=agricultural-constructionAgricultural constructionali
+                    lia title=Construction company IBB Luxembourg class=pagelink href=industrial-commercialIndustrial &amp; commercialali
+                    lia title=IBB construction - Sale of real estate -Real estate projects Luxembourg IBB. class=pagelink href=real-estateReal estate saleali
+                ul
+			nav
+		div
+    div
+header
+
+div id=C_T_DefaultRegion
+	
+
+script type=textjavascript src=maps.googleapis.commapsapijskey=AIzaSyC4gFd7NpFVWZLkwn9yNISdfNT0_rDDyGsscript
+script type=textjavascript
+    function initialize() {
+        var myLatlng = new google.maps.LatLng(50.4, 6.119385);  Koordinaten um die Karte zu Zentrieren mit InfoWindow
+		var myOptions = {
+			zoom 8,
+			center myLatlng,
+    		mapTypeControl true,
+			mapTypeControlOptions {
+				style google.maps.MapTypeControlStyle.HORIZONTAL_BAR
+			},
+			zoomControl true,
+			zoomControlOptions {
+				style google.maps.ZoomControlStyle.SMALL
+			},
+			streetViewControl false,
+			panControl true,
+			mapTypeId google.maps.MapTypeId.ROADMAP
+		};
+		var map = new google.maps.Map(document.getElementById('map_canvas'),myOptions);
+		
+		var styles = [{ stylers [{ saturation -50 }, { gamma 1 }] }, { elementType labels.text.stroke, stylers [{ visibility off }] }, { featureType poi.business, elementType labels.text, stylers [{ visibility off }] }, { featureType poi.business, elementType labels.icon, stylers [{ visibility off }] }, { featureType poi.place_of_worship, elementType labels.text, stylers [{ visibility off }] }, { featureType poi.place_of_worship, elementType labels.icon, stylers [{ visibility off }] }, { featureType road, elementType geometry, stylers [{ visibility simplified }] }, { featureType water, stylers [{ visibility on }, { saturation 50 }, { gamma 0 }, { hue #50a5d1 }] }, { featureType administrative.neighborhood, elementType labels.text.fill, stylers [{ color #333333 }] }, { featureType road.local, elementType labels.text, stylers [{ weight 0.5 }, { color #333333 }] }, { featureType transit.station, elementType labels.icon, stylers [{ gamma 1 }, { saturation 50 }] }];
+		map.setOptions({styles styles});
+
+	     Custom Marker
+		var image = {
+		    url 'customimagesgmap-marker.png',
+		    size new google.maps.Size(32, 46),  (width, height)
+		    origin new google.maps.Point(0, 0),  Origin (x,y)
+		    anchor new google.maps.Point(16, 46)  Marker Location ((width2), height)
+		};
+
+	 Fischbach
+		var contentStringFischbach =
+			'h3IBB Luxembourg (Hauptsitz)h3'+
+			'p6, Giälleweebr '+
+			'L-9749 Fischbachp'+
+			'pT&eacute;l. +352 97 90 57 - 1br '+
+			'Fax +352 97 99 10p'
+			;
+		
+		var infowindowFischbach = new google.maps.InfoWindow({
+			content contentStringFischbach
+		});
+		var markerFischbach = new google.maps.Marker({
+			position new google.maps.LatLng(50.078057,6.074192),   Fischbach
+			map map,
+			title 'IBB Luxembourg (Hauptsitz)',
+			icon image
+		});
+		google.maps.event.addListener(markerFischbach, 'click', function() {
+			infowindowFischbach.open(map,markerFischbach);
+		});
+
+	 Recht
+		var contentStringRecht = 
+			'h3IBB  Belgienh3'+
+			'pZ.I. Kaiserbarackep'+
+			'B-4780 Rechtp'+
+			'pT&eacute;l.+32 80 31 01 50br '+
+			'Fax +32 80 31 01 59p'
+			;
+		var infowindowRecht = new google.maps.InfoWindow({
+			content contentStringRecht
+		});
+		var markerRecht = new google.maps.Marker({
+			position new google.maps.LatLng(50.341893,6.078272),   Recht
+			map map,
+			title 'IBB  Belgien',
+			icon image
+		});
+		google.maps.event.addListener(markerRecht, 'click', function() {
+			infowindowRecht.open(map,markerRecht);
+		});
+		
+	     Recenter map on window resize
+		google.maps.event.addDomListener(window, 'resize', function () {
+		    google.maps.event.trigger(map, 'resize');
+		    map.setCenter(myLatlng);
+		});
+		
+	}
+	
+	google.maps.event.addDomListener(window, 'load', initialize);
+script
+
+div class=stage
+    div id=map_canvas class=gmap-contactdiv
+div
+nav role=navigation class=sitesubnav
+    ul
+        lia title=Contact - IBB Baugesellschaft. Luxembourg, Belgium class=pagelink selected href=contact-enContactali
+        lia title=Contacts - IBB Baugesellschaft. Luxembourg, Belgium class=pagelink href=contactpersonsContact personsali
+    ul
+nav
+div class=section-content
+    div class=container
+        div class=entry
+            div class=row
+                div class=col-xs-12 col-md-6 col-lg-5
+                    h1Contacth1
+                    div
+		div class=coords_panelpimg class=img-responsive title=IBB Luxembourg src=thumbnails77886-600-0-max.jpg alt=IBB Luxembourg p
+h2IBB Baugesellschaft mbH (Luxembourg)h2
+address6, Gi&auml;llewee  L-9749 Fischbachbr spanVAT ID spanspanLU 164 946 29spanbr Phone a class=phonelink href=tel+352-97-90-57-1 onclick=fetch('apiusertrack', { method 'POST', body JSON.stringify({Goal8,Url'httpswww.ibb.lucontact-en',Source'+352 97 90 57 - 1',TransactionID'638507029430429099',Category'phonelink',Action'call',Label'+352 97 90 57 1',Name'phonelink_call'}), headers { 'Content-Type' 'applicationjson' } });gtag('event', 'phonelink_call',{'event_category''phonelink','event_label''+352 97 90 57 - 1','value'0,'event_goal''phonecall','transaction_id'638507029430429099});+352 97 90 57 - 1a  Fax +352 97 99 10br a class=emaillink href=mailtoinfo@ibb.lusubject=Information%20Request%20-%20Contact%20-%20www.ibb.lu%20-%20638507029430429099 onclick=fetch('apiusertrack', { method 'POST', body JSON.stringify({Goal2,Url'httpswww.ibb.lucontact-en',Source'info@ibb.lu',TransactionID'638507029430429099',Category'emaillink',Action'send',Label'info@ibb.lu - information request - contact - www.ibb.lu',Name'emaillink_send'}), headers { 'Content-Type' 'applicationjson' } });gtag('event', 'emaillink_send',{'event_category''emaillink','event_label''info@ibb.lu - information request - contact - www.ibb.lu','value'0,'event_goal''enquiry','transaction_id'638507029430429099});info@ibb.luaaddress
+h2IBB Zweigstelle Belgien GmbH (Belgium)h2
+addressBlausteinstra&szlig;e 1  B-4780 Rechtbr spanVAT ID BE 0462 183 422spanbr  Phone a class=phonelink href=tel+32-80-31-01-50 onclick=fetch('apiusertrack', { method 'POST', body JSON.stringify({Goal8,Url'httpswww.ibb.lucontact-en',Source'+32 80 31 01 50',TransactionID'638507029430429099',Category'phonelink',Action'call',Label'+32 80 31 01 50',Name'phonelink_call'}), headers { 'Content-Type' 'applicationjson' } });gtag('event', 'phonelink_call',{'event_category''phonelink','event_label''+32 80 31 01 50','value'0,'event_goal''phonecall','transaction_id'638507029430429099});+32 80 31 01 50a  Fax +32 80 31 01 59br a class=emaillink href=mailtoinfo@ibb.lusubject=Information%20Request%20-%20Contact%20-%20www.ibb.lu%20-%20638507029430429099 onclick=fetch('apiusertrack', { method 'POST', body JSON.stringify({Goal2,Url'httpswww.ibb.lucontact-en',Source'info@ibb.lu',TransactionID'638507029430429099',Category'emaillink',Action'send',Label'info@ibb.lu - information request - contact - www.ibb.lu',Name'emaillink_send'}), headers { 'Content-Type' 'applicationjson' } });gtag('event', 'emaillink_send',{'event_category''emaillink','event_label''info@ibb.lu - information request - contact - www.ibb.lu','value'0,'event_goal''enquiry','transaction_id'638507029430429099});info@ibb.lua&nbsp; a href= target=_blankwww.ibb.beaaddress
+h2&nbsp;h2div
+	div
+                div
+                div class=col-xs-12 col-md-6 col-lg-7
+                    div
+		h2 class=h1Contact personsh2
+pWe have an open ear for your inquiries, just contact us.p
+pa class=btn btn-primary href=contactpersonsYour contact personsap
+hr 
+h2 class=h1Contact formh2
+pPlease use the contact form below to send us your requests, opinions or suggestionsp
+	div
+                    div
+		
+
+div class=contact-form
+div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_pnlForm class=form row
+			
+
+div class=col-xs-12 col-sm-6
+
+	div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Name_pnlName class=form-group name required
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Name_txtName id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Name_lblName title=NameNamelabelinput name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$Name$txtName type=text id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Name_txtName title=Name class=form-control required=required 
+			div
+	div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_FirstName_pnlFirstName class=form-group firstname required
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_FirstName_txtFirstName id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_FirstName_lblFirstName title=First NameFirst Namelabelinput name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$FirstName$txtFirstName type=text id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_FirstName_txtFirstName title=First Name class=form-control required=required 
+			div
+
+    div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Email_pnlEmail class=form-group email required
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Email_txtEmail id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Email_lblEmail title=EmailEmaillabelinput name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$Email$txtEmail type=email maxlength=100 id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Email_txtEmail title=Email class=form-control autocomplete=email inputmode=email required=required minlength=5 pattern=^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+.[a-zA-Z]{2,7}$ 
+			div   
+    div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Phone_pnlPhone class=form-group phone required
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Phone_txtPhone id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Phone_lblPhone title=PhonePhonelabelinput name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$Phone$txtPhone type=tel maxlength=16 id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Phone_txtPhone title=Please provide a valid international phone number, starting with &quot;+&quot; followed by your country prefix. class=form-control autocomplete=tel inputmode=tel required=required minlength=6 pattern=+d{1,4}[ds-]{7,15} placeholder=+xx xxxxxxx 
+			div
+	
+div
+div class=col-xs-12 col-sm-6
+	
+	div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Address_pnlAddress class=form-group address
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Address_txtAddress id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Address_lblAddress title=AddressAddresslabelinput name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$Address$txtAddress type=text id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Address_txtAddress title=Address class=form-control 
+			div
+	div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Zipcode_pnlZipcode class=form-group zipcode
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Zipcode_txtZipcode id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Zipcode_lblZipcode title=Zip codeZip codelabelinput name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$Zipcode$txtZipcode type=text id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Zipcode_txtZipcode title=Zip code class=form-control 
+			div
+	div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_City_pnlCity class=form-group city
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_City_txtCity id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_City_lblCity title=CityCitylabelinput name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$City$txtCity type=text id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_City_txtCity title=City class=form-control 
+			div
+	div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Country_pnlCountry class=form-group country
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Country_txtCountry id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Country_lblCountry title=CountryCountrylabelinput name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$Country$txtCountry type=text id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Country_txtCountry title=Country class=form-control 
+			div
+	
+div
+div class=col-xs-12
+  	div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Subject_pnlSubject class=form-group subject
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Subject_txtSubject id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Subject_lblSubject title=SubjectSubjectlabelinput name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$Subject$txtSubject type=text id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Subject_txtSubject title=Subject class=form-control 
+			div
+    div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Comment_pnlComment class=form-group comment
+				label for=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Comment_txtComment id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Comment_lblComment title=CommentCommentlabeltextarea name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$Comment$txtComment rows=5 cols=20 maxlength=500 id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_Comment_txtComment title=Comment class=form-control maxlength=500
+textarea
+			div
+    div class=privacy alert alert-info
+				spanWe respect your privacy and process your data for the sole purpose of responding to your request! By sending this form, you agree to our spanspana href=imprint#privacyPrivacy policyaspan
+			div
+    div id=SendButton
+        input type=submit name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$btnSend value=Send id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_btnSend title=Send class=btn btn-primary 
+    div
+div
+
+		div
+
+
+
+div
+input name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$Form$TimeStamp type=hidden id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_Form_TimeStamp value=638507106234641022 div id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_NoBot
+			span id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_NoBot_NoBot_NoBotLabelspan
+		div
+	div
+                div
+            div
+        div
+    div
+div
+div
+
+
+
+
+
+div class=bottom-cta
+    div class=container
+        div class=row
+            div class=col-lg contact-container
+                div class=wrapper
+                    div class=cta-titleConstruction project in Luxembourgdiv
+                    a title=Contact - IBB Baugesellschaft. Luxembourg, Belgium class=pagelink selected btn btn-sm btn-primary btn-cta href=contact-enContact our expertsa
+                div
+            div
+            div class=col-lg job-container
+                div class=wrapper
+                    div class=cta-titleWorking in the building industry, a profession with a future!div
+                    a title=Job offers at IBB - Construction company - Real estate projects in Luxembourg class=pagelink btn btn-sm btn-primary btn-cta href=careerDiscover our career opportunitiesa
+                div
+            div
+        div
+    div
+div
+
+
+
+
+
+footer id=footer
+    div class=curb-gray
+        svg version=1.1 x=0px y=0px viewBox=0 0 40 40 xmlspace=preserve preserveAspectRatio=none
+            path id=XMLID_1_ class=st0 d=M40.5-0.5c-16,27.9-30.1,38.3-41,41h41V-0.5z
+        svg
+    div
+	div class=container
+        div class=row gutter-vertical
+            address class=col-xs-12 col-sm-8 col-md-7
+                div class=row
+                    div class=logo col-xs-12 col-sm-6 col-md-5
+                        img src=customimagesheader-logo.png width=172 height=85 alt=IBB Baugesellschaft - Entreprise de construction 
+                    div
+                    div class=column col-xs-12 col-sm-6 col-md-7
+                        div class=titleIBB Baugesellschaft mbHdiv
+                        div class=row
+                            div class=col-xs-12 col-md-6
+				                span6, Gi&auml;lleweespanbr 
+				                L-span9749span spanFischbachspanbr 
+                                spanLuxembourgspan
+                            div
+                            div class=col-xs-12 col-md-6
+				                Tel. spana class=phonelink href=tel+352-97-90-57-1 onclick=fetch('apiusertrack', { method 'POST', body JSON.stringify({Goal8,Url'httpswww.ibb.lucontact-en',Source'+352 97 90 57 - 1',TransactionID'638507034234590761',Category'phonelink',Action'call',Label'+352 97 90 57 1',Name'phonelink_call'}), headers { 'Content-Type' 'applicationjson' } });gtag('event', 'phonelink_call',{'event_category''phonelink','event_label''+352 97 90 57 - 1','value'0,'event_goal''phonecall','transaction_id'638507034234590761});+352 97 90 57 - 1aspanbr 
+                                Fax span+352 97 99 10spanbr 
+				                spana class=emaillink href=mailtoinfo@ibb.lusubject=Information%20Request%20-%20Contact%20-%20www.ibb.lu%20-%20638507034234590761 onclick=fetch('apiusertrack', { method 'POST', body JSON.stringify({Goal2,Url'httpswww.ibb.lucontact-en',Source'info@ibb.lu',TransactionID'638507034234590761',Category'emaillink',Action'send',Label'info@ibb.lu - information request - contact - www.ibb.lu',Name'emaillink_send'}), headers { 'Content-Type' 'applicationjson' } });gtag('event', 'emaillink_send',{'event_category''emaillink','event_label''info@ibb.lu - information request - contact - www.ibb.lu','value'0,'event_goal''enquiry','transaction_id'638507034234590761});info@ibb.luaspan
+                            div
+                        div
+                    div
+                div
+            address
+            div class=links col-xs-12 col-sm-4 col-md-5
+                div class=social
+                    a title=Facebook class=sociallink sociallink-facebook rel=me noopener href=facebook target=_blank onclick=gtag('event', 'socialvisit_redirect',{'event_category''socialvisit','event_label''facebook','value'0,'event_goal''custom','transaction_id'638507034234590761});i class=fab fa-facebook-f title=Facebook aria-label=FacebookiFacebooka
+                    a title=Youtube class=sociallink sociallink-youtube rel=me noopener href=youtube target=_blank onclick=gtag('event', 'socialvisit_redirect',{'event_category''socialvisit','event_label''youtube','value'0,'event_goal''custom','transaction_id'638507034234590761});i class=fab fa-youtube title=Youtube aria-label=YoutubeiYoutubea
+                div
+                
+
+            div
+        div
+    div
+    div class=copyright
+        div class=curb-red
+            svg version=1.1 x=0px y=0px viewBox=0 0 40 40 xmlspace=preserve preserveAspectRatio=none
+                path id=XMLID_1_ class=st0 d=M40.5-0.5c-16,27.9-30.1,38.3-41,41h41V-0.5z
+            svg
+        div
+        div class=container-fluid
+            div class=row
+                
+                div class=allrights col-xs-12 col-md
+                    div class=impressum
+                        span&#169; 2017-2024 IBB. span
+
+                        span class=legalinfolinka title=IBB construction company &amp; real estate projects in Luxembourg class=pagelink active href=imprintImprintaspan
+                        a title=IBB construction company &amp; real estate projects in Luxembourg class=pagelink active href=sitemap-enSitemapa
+                        span id=C_T_agencymum class=agencymumspana title=Website by web agency MUM digital agency class=contentlink rel=noopener href=httpswww.mum.lusites-webutm_source=www.ibb.lu&amp;utm_medium=referral&amp;utm_campaign=references&amp;utm_content=agencymum target=_blankWeb agencya&nbsp;bmum.lubspanspan
+                    div
+                div
+                div class=label col-xs-12 col-md
+                    img src=customimagesfooter-energie.png alt=Energie fir'd Zukunft Logo class=energie 
+                    img src=customimagesfooter-madeinlux.png alt=Made in Luxembourg class=madeinlux 
+                div
+            div
+        div
+    div
+footerscript type=textjavascript
+![CDATA[
+(function() {var fn = function() {$get(ScriptManager_HiddenField).value = '';Sys.Application.remove_init(fn);};Sys.Application.add_init(fn);})();]]
+script
+
+script src=utiljqueryjquery-3.5.1.slim.min.jsscript
+script type=textjavascript
+![CDATA[
+try{(function() {var afterPrint = function() { gtag('event', 'page_print',{'event_category''page','event_label''contact - [contact-en]','value'0,'event_goal''custom','transaction_id'638507034234690995}); }; if (window.matchMedia) { var mediaQueryList = window.matchMedia('print'); mediaQueryList.addListener(function(mql) { if (!mql.matches) afterPrint(); }); } window.onafterprint = afterPrint; } ()); } catch (e) { }
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.NoBotBehavior, {ChallengeScript~464,ClientStateFieldIDC_T_DefaultRegion_M6015_ctl00_ctl05_M3660_NoBot_NoBot_NoBotExtender_ClientState,idC_T_DefaultRegion_M6015_ctl00_ctl05_M3660_NoBot_NoBot_NoBotExtender}, null, null, $get(C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_NoBot_NoBot_NoBotLabel));
+});
+]]
+script
+
+input type=hidden name=ScriptManager_HiddenField id=ScriptManager_HiddenField value= 
+input type=hidden name=__EVENTTARGET id=__EVENTTARGET value= 
+input type=hidden name=__EVENTARGUMENT id=__EVENTARGUMENT value= 
+input type=hidden name=__VIEWSTATE id=__VIEWSTATE value=QW72S+7FxheljUYwy2oJGBcuRxl55V7+iN+5X5lxnaR1+sS2co2lkpNmf4rLAyStz3Ga3ScmOBzOdEHm3Z4slU2w3CX15DVkhbmYWQzYY= 
+input type=hidden name=C$T$DefaultRegion$M6015$ctl00$ctl05$M3660$NoBot$NoBot_NoBotExtender_ClientState id=C_T_DefaultRegion_M6015_ctl00_ctl05_M3660_NoBot_NoBot_NoBotExtender_ClientState 
+input type=hidden name=__VIEWSTATEGENERATOR id=__VIEWSTATEGENERATOR value=3D6450B0 
+input type=hidden name=__SCROLLPOSITIONX id=__SCROLLPOSITIONX value=0 
+input type=hidden name=__SCROLLPOSITIONY id=__SCROLLPOSITIONY value=0 
+input type=hidden name=__EVENTVALIDATION id=__EVENTVALIDATION value=A3Rw5cYzfEX7hPP3LLgefh0oZClBhUyM6YZoBEU79Bb425qrmyuMGEbQw0Mlst4OpR7ZKnW6MeKZRrzJAYw3M8fcqWbvMkkgtPworHLMdXUcqjuq5h0gMnBf6kpnYPTQcxCzSzFgLuJTXazVXhkfWQ3dfxxDtaCOI8RaYbB32I2dUCmox3+9HG+Rn1qBI92WqkBCQSZV2S3v0od5KRwVJZ7QRaE4jbm8Nqfznk8ua3siXPFu443ZiUA4W+KbZOeRhPcNXUX8BKZfBgymnkVs0ypbkNVxOfEI5enAYah0GuCacapfoAfuqAaLpwLTuzzN+xnNKfXjdm5GnDad39N7p9H3rwNwFt9IwbJmR7e5+zFcojdQEgjERIi3u 
+form
+!--WCFormEnd--
+
+
+
+    script type=textjavascript
+        
+        $(document).ready(function () {
+            $('#toplanguages .current').click(function () {
+                $(this).parent().toggleClass('show');
+            });
+	        $('#navigation-toggle').click( function() {
+		        $('html').toggleClass('shownav');
+	        });	
+	        $('#subnav-toggle').click( function() {
+		        $('#subnavvertical').toggleClass('showsubnav');
+            });
+        });
+        $(window).on('scroll load',function(){
+	         we round here to reduce a little workload
+	        var stop = Math.round($(window).scrollTop());
+	        if (stop  40) {
+		        $('body').addClass('scrolled');
+	        } else {
+		        $('body').removeClass('scrolled');
+	        }	
+        });
+    script
+
+body
+html
